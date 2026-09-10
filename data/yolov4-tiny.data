@@ -1,0 +1,6 @@
+classes= 4
+train  = custom/train.txt
+valid  = custom/valid.txt
+names = /content/gdrive/MyDrive/yolov4/data/yolov4-tiny.names
+backup = /content/gdrive/MyDrive/yolov4/
+
