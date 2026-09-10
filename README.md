@@ -2,3 +2,6 @@
 Yolov4-tiny 버전을 사용하여 학습과 인식 결과 도출
 
 은상 수상
+
+train_data = 2000장
+test_data = 2000장
